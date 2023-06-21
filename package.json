@@ -47,6 +47,7 @@
   },
   "types": "types/index.d.ts",
   "dependencies": {
-    "@googlemaps/markerclusterer": "^2.0.3"
+    "@googlemaps/markerclusterer": "^2.0.3",
+    "fast-deep-equal": "^3.1.3"
   }
 }
